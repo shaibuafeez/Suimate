@@ -43,16 +43,4 @@ python extract_rootlet_links.py
 The scripts will save the extracted links to CSV files with columns for:
 - NFT name
 - Object ID
-- Image URL
-
-## Requirements
-
-- Python 3.6+
-- Requests library (`pip install requests`)
-
-## API Key
-
-The scripts use the BlockVision API with the following API key:
-```
-2uulalvqIxowwmCkEMGozKfUmrW
-```
+- Image URl
